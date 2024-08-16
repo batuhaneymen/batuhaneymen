@@ -1,4 +1,4 @@
-[![MasterHead](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/04/web-developer-portfolio.png)
+![MasterHead](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/04/web-developer-portfolio.png)
 
 <h1 align="center">Hi 👋, I'm Batuhan Eymen Çorlu</h1>
 <h3 align="center">Full stack web developer, open to diversityc from Türkiye</h3>
